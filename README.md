@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="assets/logo.png" alt="RaidVoice" width="128">
-</p>
-
 <h1 align="center">RaidVoice</h1>
 
 <p align="center">
