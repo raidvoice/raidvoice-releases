@@ -1,5 +1,12 @@
 # Changelog
 
+## v0.2.40 (2026-02-20)
+
+### Изменения
+- fix(friends): stale online status after wake from sleep (INC-039)
+
+---
+
 ## v0.2.39 (2026-02-15)
 
 ### Изменения
